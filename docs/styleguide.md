@@ -1,0 +1,1 @@
+All code style should follow this guide: https://dart.dev/effective-dart/style

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "894359482269",
+    "project_id": "givesync-74ea5",
+    "storage_bucket": "givesync-74ea5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894359482269:android:5e976a75e28f7cbb8f4974",
+        "android_client_info": {
+          "package_name": "com.example.givesync_application_385"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmGYrcFwZc9ABGIxVtazyMolgbaalOlb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
