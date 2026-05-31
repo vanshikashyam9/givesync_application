@@ -97,6 +97,12 @@ firebase functions:config:set gmail.email="your-email@gmail.com" gmail.password=
 
 > **Note:** Use a [Gmail App Password](https://support.google.com/accounts/answer/185833), not your regular password.
 
+## Demo Video
+
+https://youtu.be/yVDGIN_VsSI?si=nocJwWU5Xli5nqrV 
+
 ## License
 
 This project was developed as part of CMPT 385 coursework.
+
+ 
