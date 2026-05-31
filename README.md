@@ -1,4 +1,4 @@
-# GiveSync 🤝
+# GiveSync 
 
 A Flutter-based donation management application built for **FoodLink**, designed to streamline the process of tracking, syncing, and reporting food donations across multiple store locations.
 
